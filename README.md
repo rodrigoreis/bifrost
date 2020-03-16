@@ -3,7 +3,7 @@
 ## Branch structure
 
 ## How to build
-Bifrost is built against the latest ASP.NET Core 3.
+Bifrost is built against the latest [ASP.NET Core 3](https://dotnet.microsoft.com/download/dotnet-core).
 
 ## Documentation
 
